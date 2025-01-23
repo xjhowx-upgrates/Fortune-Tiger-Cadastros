@@ -1,14 +1,15 @@
-# Fortune Tiger - Landing Page 🐅
+# Fortune Tiger 🐅 Landing Page
 
-## Sobre o projeto
-Landing page criada para o projeto Fortune Tiger. 
+Este é o projeto da landing page "Fortune Tiger - Gerador de Sinais".
 
-## Tecnologias utilizadas
-- HTML5
-- CSS3
-- JavaScript
+## Funcionalidades
 
-## Como usar
-1. Clone este repositório:
+- Gerador de sinais para operações normais e turbo.
+- Validade dos sinais exibida diretamente na página.
+- Totalmente responsivo e estilizado com Bootstrap.
+
+## Como executar
+
+1. Clone o repositório:
    ```bash
    git clone https://github.com/xjhowx-upgrates/Fortune-Tiger-Cadastros.git
