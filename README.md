@@ -1,7 +1,6 @@
-# Fortune Tiger 🐅 
-Landing Page
+# Fortune Tiger 🐅 Landing de Captura
 
-Esse é o projeto da landing page **Fortune Tiger - Gerador de Sinais**. 
+Esse é o projeto de página de captura é do famoso tigrinho  **Fortune Tiger - Gerador de Sinais**. 
 
 O objetivo da página é gerar sinais para duas modalidades: Normal e Turbo, além de mostrar a validade de cada sinal gerado.
 
