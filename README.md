@@ -1,6 +1,6 @@
 # Fortune Tiger 🐅 Landing Page
 
-Este é o projeto da landing page **Fortune Tiger - Gerador de Sinais**. O objetivo desta página é gerar sinais para operações financeiras com duas modalidades: Normal e Turbo, além de mostrar a validade de cada sinal gerado.
+Este é o projeto da landing page **Fortune Tiger - Gerador de Sinais**. O objetivo desta página é gerar sinais para duas modalidades: Normal e Turbo, além de mostrar a validade de cada sinal gerado.
 
 ## Funcionalidades
 
